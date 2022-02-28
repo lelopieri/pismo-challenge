@@ -6,9 +6,14 @@ Technical challenge for Pismo.io
 - Java JDK 11
 - Maven
 - git
+- Docker
+- Docker Compose
 
 ## How To run
-- Check out project (git clone https://github.com/lelopieri/pismo-challenge.git )
+- Clone project 
+```
+git clone https://github.com/lelopieri/pismo-challenge.git
+```
 
 ### Dev Environment
 #### Run Postgres Docker image to use during development
